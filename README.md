@@ -1,3 +1,5 @@
+# This repository is Archived in favor of https://github.com/node-casbin/mongo-changestream-watcher
+
 # MongoDB Change Stream Watcher for Node-Casbin
 
 [![NPM version][npm-image]][npm-url]
